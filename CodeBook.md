@@ -14,5 +14,5 @@ Merge the generated data in one dataset
 Create another dataset with the averages of all features
 
 ### Results dataset
-merge_meanstd_data.txt
+merge_meanstd_data.txt<br/>
 average_data.txt
